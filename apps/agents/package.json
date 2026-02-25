@@ -26,13 +26,13 @@
   },
   "dependencies": {
     "@langchain/anthropic": "^0.3.12",
-    "@langchain/community": "^0.3.27",
-    "@langchain/core": "^0.3.37",
+    "@langchain/community": "^1.1.14",
+    "@langchain/core": "^0.3.80",
     "@langchain/langgraph": "^0.2.57",
     "@langchain/langgraph-sdk": "^0.0.77",
     "@supabase/supabase-js": "^2.49.7",
     "dotenv": "^16.5.0",
-    "langchain": "^0.3.14"
+    "langchain": "^1.2.27"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3.1.0",
