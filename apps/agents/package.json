@@ -26,8 +26,8 @@
   },
   "dependencies": {
     "@langchain/anthropic": "^1.3.20",
-    "@langchain/community": "^1.1.19",
-    "@langchain/core": "^1.1.28",
+    "@langchain/community": "^1.1.24",
+    "@langchain/core": "^1.1.33",
     "@langchain/langgraph": "^1.1.5",
     "@langchain/langgraph-sdk": "^1.6.4",
     "@langchain/tavily": "^1.2.0",
